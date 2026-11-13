@@ -1,0 +1,4 @@
+.env
+rag_report.pdf
+venv/
+docs/
